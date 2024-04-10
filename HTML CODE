@@ -1,0 +1,24 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>cards</title>
+</head>
+<body>
+<div class="c" id="card1">
+    <img src="https://images.unsplash.com/photo-1567591370504-80142b28f1c1?q=80&w=2016&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+  </div> 
+<div class="c" id="card2">
+    <img src="https://images.unsplash.com/photo-1642774667024-e9e2f37914d2?q=80&w=2014&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+</div>
+<div class="c" id="card3">
+    <img src="https://images.unsplash.com/photo-1609309783328-b2fcbf559d14?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+</div>
+<div class="c" id="card4">
+    <img src="https://images.unsplash.com/photo-1569136143047-07c0fac16776?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+</div>
+
+
+
+</body>
+
+</html>
